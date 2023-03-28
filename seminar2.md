@@ -42,6 +42,8 @@ git cherry-pick -n 5589877
 ## Добавление изображений
 
 tut budet izobragenie
+Картинка с альтом и тайтлом:
+![Diablo4](diablo4.jpg "Diablo 4")
 
 ## Добавление исходного кода
 
@@ -89,3 +91,8 @@ Content Cell | Content Cell
 жирный или зачеркнутый текст.
 
 Для всего остального есть обычный HTML.
+
+
+
+
+
