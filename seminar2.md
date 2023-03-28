@@ -41,6 +41,7 @@ git cherry-pick -n 5589877
 
 ## Добавление изображений
 
+tut budet izobragenie
 
 ## Добавление исходного кода
 
